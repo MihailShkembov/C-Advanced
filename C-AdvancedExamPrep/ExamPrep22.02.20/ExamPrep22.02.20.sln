@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0.1Lootbox", "0.1Lootbox\0.1Lootbox.csproj", "{9A9AFB66-A9A3-4C7D-A129-CE0D06E5B171}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guild", "0.3Guild\Guild.csproj", "{BD88BE0B-596D-4D17-9B71-4FD9309988A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.2 Revolt", "0.2 Revolt\0.2 Revolt.csproj", "{553DBCD2-A759-48FA-95CE-C8BC6441047D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9AFB66-A9A3-4C7D-A129-CE0D06E5B171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9AFB66-A9A3-4C7D-A129-CE0D06E5B171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9AFB66-A9A3-4C7D-A129-CE0D06E5B171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9AFB66-A9A3-4C7D-A129-CE0D06E5B171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD88BE0B-596D-4D17-9B71-4FD9309988A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD88BE0B-596D-4D17-9B71-4FD9309988A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD88BE0B-596D-4D17-9B71-4FD9309988A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD88BE0B-596D-4D17-9B71-4FD9309988A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553DBCD2-A759-48FA-95CE-C8BC6441047D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553DBCD2-A759-48FA-95CE-C8BC6441047D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553DBCD2-A759-48FA-95CE-C8BC6441047D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553DBCD2-A759-48FA-95CE-C8BC6441047D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC677694-1810-42A5-9A72-E146CEEA56FD}
+	EndGlobalSection
+EndGlobal
